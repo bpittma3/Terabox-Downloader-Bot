@@ -1,1 +1,1 @@
-Bot: bash start.sh
+Bot: python3 terabox.py
